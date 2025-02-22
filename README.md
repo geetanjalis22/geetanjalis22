@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sultanegeetanjali@gmail.com**
 
-- ⚡ Fun fact **I am a Technical Writer**
+- ⚡ Fun fact **I like Reading Books**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
