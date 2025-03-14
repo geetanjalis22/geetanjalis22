@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Scala**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 📍 I’m looking to collaborate on **Full Stack Projects**
 
 - 🤝 I’m looking for help with **Payment Gateway Creation**
 
