@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetanjali-22" alt="geetanjali-22" /></a> </p>
 
-- 🌱 I’m currently learning **Scala**
+- 🌱 I’m currently learning **Typescript**
 
 - 📍 I’m looking to collaborate on **Full Stack Projects**
 
