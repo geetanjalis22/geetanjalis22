@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Geetanjali Sultane</h1>
 <h3 align="center">Passionate Software Engineer Professional From India</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=geetanjalis22&label=Profile%20views&color=0e75b6&style=flat" alt="geetanjalis22" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geetanjalis22&label=Profile%20views&color=0e75b6&style=flat" alt="geetanjalis22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetanjalis22" alt="geetanjalis22" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geetanjalis22" alt="geetanjalis22" /></a> </p> -->
 
 - I’m currently learning **Typescript**
 
