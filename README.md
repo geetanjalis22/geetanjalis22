@@ -8,7 +8,7 @@ Passionate about building real-world products and solving meaningful problems th
 ##  About Me
 -  I build **MERN stack applications**, **ReactJS frontends**, and **WordPress websites**.  
 -  Currently improving my **DSA**, **Java Spring Boot**, and **System Design** skills.  
--  Love solving challenges — Solved **500+ Leetcode Problems**.  
+-  Passionate about solving challenges — Solved **500+ Leetcode Problems**.  
 -  Founder of **Consentra Labs**, where I help businesses build modern professional enterprise-level websites.  
 -  Goal: Become a top-tier full stack engineer and build impactful products.
 
