@@ -38,7 +38,7 @@ Passionate about building real-world products and solving meaningful problems th
 - **InsurAI- AI-Powered Insurance Policy Platform** — Built an enterprise-grade insurance platform automating 80% of policy and claim workflows with real-time dashboards for 10,000+ employee records. Includes secure role-based access, fraud detection, real-time tracking, and a powerful admin panel with JWT authentication.
 - **AI-Powered Multi-Tenant Revenue & Subscription Engine** — Built a multi-tenant revenue and subscription engine with accurate proration, parallel invoice processing, and full audit logging using Spring AOP. Designed an ACID-compliant data layer and custom multi-tier architecture for high-performance, enterprise-grade billing.
 - **CrimeCast- Crime Prediction Using DL Techniques** — Developed a deep-learning crime prediction model using geospatial and temporal features, trained on Chicago crime data to accurately classify crime types. Built and optimized a TensorFlow-based neural network with robust preprocessing using Pandas and Scikit-learn.
-- **WordPress Business Websites** — Modern responsive business websites for clients  
+
  
 
  *View my repositories to explore more!*
