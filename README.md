@@ -53,7 +53,7 @@ I enjoy turning ideas into practical software solutions. From building full-stac
 
 ## Featured Projects
 
-### 1. InsurAI – AI-Powered Insurance Policy Platform
+### 1. InsurAI: AI-Powered Insurance Policy Platform
 An enterprise-oriented insurance management platform designed to streamline policy and claims workflows.
 **Tech:** Java, Spring Boot, React.js, MySQL, Supabase, JWT, WebSockets
 - Engineered a multi-role insurance management platform supporting **4 user roles** (Admin, HR, Agent, and Employee) with secure JWT-based authentication and role-based access control.
