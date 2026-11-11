@@ -1,4 +1,4 @@
-# Hi, I'm Geetanjali! 👋
+# Hi, I'm Geetanjali! 
 
 ### Full Stack Developer | MERN Stack | Java & Spring Boot | Founder – Consentra Labs
 
@@ -10,18 +10,18 @@ I enjoy turning ideas into practical software solutions. From building full-stac
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🚀 Full Stack Developer building applications using **MERN, React.js, Java, and Spring Boot**.
-- 💡 Founder of **[Consentra Labs](https://consentra-labs.vercel.app/)**, focused on building modern digital solutions for businesses.
-- 🧠 Solved **500+ LeetCode problems**, continuously strengthening problem-solving and algorithmic thinking.
-- 🌱 Currently exploring **Data Structures & Algorithms, Spring Boot, System Design, and scalable backend architecture**.
-- 🛠️ Interested in building reliable, maintainable, and production-oriented software.
-- 🎯 My goal is to become a well-rounded software engineer and build products that create meaningful impact.
+- Full Stack Developer building applications using **MERN, React.js, Java, and Spring Boot**.
+- Founder of **[Consentra Labs](https://consentra-labs.vercel.app/)**, focused on building modern digital solutions for businesses.
+- Solved **500+ LeetCode problems**, continuously strengthening problem-solving and algorithmic thinking.
+- Currently exploring **Data Structures & Algorithms, Spring Boot, System Design, and scalable backend architecture**.
+- Interested in building reliable, maintainable, and production-oriented software.
+- My goal is to become a well-rounded software engineer and build products that create meaningful impact.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -51,43 +51,38 @@ I enjoy turning ideas into practical software solutions. From building full-stac
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. InsurAI – AI-Powered Insurance Policy Platform
 An enterprise-oriented insurance management platform designed to streamline policy and claims workflows.
+*Java, Spring Boot, React.js, MySQL, Supabase, JWT, WebSockets*
 
-- Developed role-based portals with secure JWT authentication.
-- Implemented policy and claims management workflows.
-- Integrated fraud detection capabilities and real-time tracking.
-- Built administrative dashboards for centralized management.
-- Designed the platform to support large-scale employee records.
+- Engineered a multi-role insurance management platform supporting **4 user roles** (Admin, HR, Agent, and Employee) with secure JWT-based authentication and role-based access control.
+- Developed **4 major project milestones**, implementing policy management, employee onboarding, claims processing, agent support, and role-specific dashboards.
+- Implemented end-to-end claims workflows covering document uploads, claim editing, **3 claim statuses** (Pending, Approved, Rejected), HR approvals, and real-time status synchronization.
+- Integrated **fraud detection, audit logging, and real-time notifications**, enabling automated claim verification, activity tracking, and transparent operations across all 4 roles.
+- Built analytics dashboards and automated reporting with **5 export options** (PDF, Employee CSV, Claims CSV, Policy CSV, and downloadable policy documents), alongside an AI-powered chatbot for employee assistance.
 
-**Tech:** Java, Spring Boot, React.js, MySQL, JWT, WebSockets
+### 2. SprintFlow: AI-Powered Agile & Engineering Intelligence Platform
+An AI-driven project management platform that streamlines agile workflows through sprint planning, task tracking, team collaboration, and intelligent engineering insights.
+• Engineered a full-stack Jira-grade platform using React 18, TypeScript, Express, and MongoDB, supporting
+5-stage Kanban boards with Socket.io integration for real-time state synchronization.
+• Architected an explainable Predictive Sprint Risk Engine analyzing burn-rate velocity deficits, blocker
+penalties, and aging WIP, flagging at-risk deliverables 3 to 5 days before sprint deadlines.
+• Designed a Directed Acyclic Graph (DAG) dependency engine using Graphology and BFS traversal to detect
+cyclic dependencies, building a Blast Radius Simulator that models cascading downstream delays.
+• Implemented semantic issue intelligence and Retrieval-Augmented Generation (RAG) using cosine similarity
+over vector embeddings to identify potential duplicate tickets and surface relevant architectural decisions.
+• Built an English-to-AST natural language workflow compiler with interactive dry-run simulation for rule triggers,
+automating release-readiness checks based on blocker validation and CI/CD test results.
 
-### 2. AI-Powered Multi-Tenant Revenue & Subscription Engine
-A backend-focused billing platform designed to manage subscription lifecycles and multi-tenant revenue operations.
+**Tech:** MongoDB, ReactJS, NodeJS, ExpressJS, BFS
 
-- Implemented subscription management and billing workflows.
-- Developed proration logic for subscription changes.
-- Designed parallel invoice processing.
-- Integrated audit logging using Spring AOP.
-- Applied ACID principles for transaction consistency.
 
-**Tech:** Java, Spring Boot, Spring AOP, SQL
-
-### 3. CrimeCast – Crime Prediction Using Deep Learning
-A machine learning project focused on analyzing crime patterns using geospatial and temporal data.
-
-- Developed a crime classification model using Chicago crime data.
-- Applied data preprocessing and feature engineering.
-- Built a TensorFlow-based neural network.
-- Used data analysis and machine learning techniques to improve model performance.
-
-**Tech:** Python, TensorFlow, Pandas, Scikit-learn
 
 ---
 
-## 📊 Problem Solving
+## Problem Solving
 
 I believe consistent problem-solving builds strong engineering fundamentals.
 
@@ -99,37 +94,27 @@ I believe consistent problem-solving builds strong engineering fundamentals.
 
 ---
 
-## 📈 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
----
-
-## 💼 Entrepreneurship
+## Entrepreneurship
 
 ### Consentra Labs
 
 **Consistency meets Centralization.**
 
-I founded Consentra Labs with the vision of helping businesses establish a strong digital presence through modern, professional web solutions.
+I founded Consentra Labs with the vision of helping businesses establish a strong digital presence through enterprise, professional web solutions.
 
-🌐 Website: https://consentra-labs.vercel.app/
+Website: https://consentra-labs.vercel.app/
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always open to connecting with developers, discussing software engineering, exploring ideas, and collaborating on meaningful projects.
 
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/geetanjali-sultane/)
-- 💻 **GitHub:** [Explore my repositories](https://github.com/geetanjalis22)
-- 🧩 **LeetCode:** [Explore my problem-solving journey](https://leetcode.com/sultanegeetanjali)
-- 📧 **Email:** [sultanegeetanjali@gmail.com](mailto:sultanegeetanjali@gmail.com)
-- 🚀 **Consentra Labs:** [Visit Website](https://consentra-labs.vercel.app/)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/geetanjali-sultane/)
+- **GitHub:** [Explore my repositories](https://github.com/geetanjalis22)
+- **LeetCode:** [Explore my problem-solving journey](https://leetcode.com/sultanegeetanjali)
+- **Email:** [sultanegeetanjali@gmail.com](mailto:sultanegeetanjali@gmail.com)
+- **Consentra Labs:** [Visit Website](https://consentra-labs.vercel.app/)
 
 ---
 
