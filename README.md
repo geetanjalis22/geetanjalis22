@@ -69,9 +69,9 @@ An AI-driven project management platform that streamlines agile workflows throug
 5-stage Kanban boards with Socket.io integration for real-time state synchronization.
 - Architected an explainable Predictive Sprint Risk Engine analyzing burn-rate velocity deficits, blocker
 penalties, and aging WIP, flagging at-risk deliverables 3 to 5 days before sprint deadlines.
-- Designed a Directed Acyclic Graph (DAG) dependency engine using Graphology and BFS traversal to detect
+- Designed a **Directed Acyclic Graph (DAG)** dependency engine using Graphology and BFS traversal to detect
 cyclic dependencies, building a Blast Radius Simulator that models cascading downstream delays.
-- Implemented semantic issue intelligence and Retrieval-Augmented Generation (RAG) using cosine similarity
+- Implemented semantic issue intelligence and **Retrieval-Augmented Generation (RAG)** using cosine similarity
 over vector embeddings to identify potential duplicate tickets and surface relevant architectural decisions.
 - Built an English-to-AST natural language workflow compiler with interactive dry-run simulation for rule triggers,
 automating release-readiness checks based on blocker validation and CI/CD test results.
@@ -98,7 +98,7 @@ I believe consistent problem-solving builds strong engineering fundamentals.
 
 ### Consentra Labs
 
-**Consistency meets Centralization.**
+**Where Technology Meets Excellence.**
 
 I founded Consentra Labs with the vision of helping businesses establish a strong digital presence through enterprise, professional web solutions.
 
