@@ -55,8 +55,7 @@ I enjoy turning ideas into practical software solutions. From building full-stac
 
 ### 1. InsurAI – AI-Powered Insurance Policy Platform
 An enterprise-oriented insurance management platform designed to streamline policy and claims workflows.
-*Java, Spring Boot, React.js, MySQL, Supabase, JWT, WebSockets*
-
+**Tech:** Java, Spring Boot, React.js, MySQL, Supabase, JWT, WebSockets
 - Engineered a multi-role insurance management platform supporting **4 user roles** (Admin, HR, Agent, and Employee) with secure JWT-based authentication and role-based access control.
 - Developed **4 major project milestones**, implementing policy management, employee onboarding, claims processing, agent support, and role-specific dashboards.
 - Implemented end-to-end claims workflows covering document uploads, claim editing, **3 claim statuses** (Pending, Approved, Rejected), HR approvals, and real-time status synchronization.
@@ -65,6 +64,7 @@ An enterprise-oriented insurance management platform designed to streamline poli
 
 ### 2. SprintFlow: AI-Powered Agile & Engineering Intelligence Platform
 An AI-driven project management platform that streamlines agile workflows through sprint planning, task tracking, team collaboration, and intelligent engineering insights.
+**Tech:** MongoDB, ReactJS, NodeJS, ExpressJS, BFS
 - Engineered a full-stack Jira-grade platform using React 18, TypeScript, Express, and MongoDB, supporting
 5-stage Kanban boards with Socket.io integration for real-time state synchronization.
 - Architected an explainable Predictive Sprint Risk Engine analyzing burn-rate velocity deficits, blocker
@@ -76,7 +76,7 @@ over vector embeddings to identify potential duplicate tickets and surface relev
 - Built an English-to-AST natural language workflow compiler with interactive dry-run simulation for rule triggers,
 automating release-readiness checks based on blocker validation and CI/CD test results.
 
-**Tech:** MongoDB, ReactJS, NodeJS, ExpressJS, BFS
+
 
 
 
