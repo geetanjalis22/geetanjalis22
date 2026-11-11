@@ -5,8 +5,8 @@
 I enjoy turning ideas into practical software solutions. From building full-stack applications to designing scalable backend systems, I'm passionate about creating products that solve real-world problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geetanjali-sultane/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/geetanjalis22)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/@sultanegeetanjali/)
 
 ---
 
