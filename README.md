@@ -13,7 +13,7 @@ I enjoy turning ideas into practical software solutions. From building full-stac
 ## About Me
 
 - Full Stack Developer building applications using **MERN, React.js, Java, and Spring Boot**.
-- Founder of **[Consentra Labs](https://consentra-labs.vercel.app/)**, focused on building modern digital solutions for businesses.
+- Founder of **[Consentra Labs](https://consentra-labs.vercel.app/)**, focused on building enterprise web solutions for businesses.
 - Solved **500+ LeetCode problems**, continuously strengthening problem-solving and algorithmic thinking.
 - Currently exploring **Data Structures & Algorithms, Spring Boot, System Design, and scalable backend architecture**.
 - Interested in building reliable, maintainable, and production-oriented software.
