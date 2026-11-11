@@ -65,15 +65,15 @@ An enterprise-oriented insurance management platform designed to streamline poli
 
 ### 2. SprintFlow: AI-Powered Agile & Engineering Intelligence Platform
 An AI-driven project management platform that streamlines agile workflows through sprint planning, task tracking, team collaboration, and intelligent engineering insights.
-• Engineered a full-stack Jira-grade platform using React 18, TypeScript, Express, and MongoDB, supporting
+- Engineered a full-stack Jira-grade platform using React 18, TypeScript, Express, and MongoDB, supporting
 5-stage Kanban boards with Socket.io integration for real-time state synchronization.
-• Architected an explainable Predictive Sprint Risk Engine analyzing burn-rate velocity deficits, blocker
+- Architected an explainable Predictive Sprint Risk Engine analyzing burn-rate velocity deficits, blocker
 penalties, and aging WIP, flagging at-risk deliverables 3 to 5 days before sprint deadlines.
-• Designed a Directed Acyclic Graph (DAG) dependency engine using Graphology and BFS traversal to detect
+- Designed a Directed Acyclic Graph (DAG) dependency engine using Graphology and BFS traversal to detect
 cyclic dependencies, building a Blast Radius Simulator that models cascading downstream delays.
-• Implemented semantic issue intelligence and Retrieval-Augmented Generation (RAG) using cosine similarity
+- Implemented semantic issue intelligence and Retrieval-Augmented Generation (RAG) using cosine similarity
 over vector embeddings to identify potential duplicate tickets and surface relevant architectural decisions.
-• Built an English-to-AST natural language workflow compiler with interactive dry-run simulation for rule triggers,
+- Built an English-to-AST natural language workflow compiler with interactive dry-run simulation for rule triggers,
 automating release-readiness checks based on blocker validation and CI/CD test results.
 
 **Tech:** MongoDB, ReactJS, NodeJS, ExpressJS, BFS
