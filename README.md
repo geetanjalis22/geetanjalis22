@@ -1,55 +1,138 @@
-# Hi, I'm Geetanjali!
+# Hi, I'm Geetanjali! 👋
 
-### Full Stack Developer | MERN | Java | Entrepreneur  
-Passionate about building real-world products and solving meaningful problems through technology.
+### Full Stack Developer | MERN Stack | Java & Spring Boot | Founder – Consentra Labs
 
----
+I enjoy turning ideas into practical software solutions. From building full-stack applications to designing scalable backend systems, I'm passionate about creating products that solve real-world problems.
 
-##  About Me
--  I build **MERN stack applications**, **ReactJS frontends**, and **WordPress websites**.  
--  Currently improving my **DSA**, **Java Spring Boot**, and **System Design** skills.  
--  Dedicated to solving challenges — Solved **500+ Leetcode Problems**.  
--  Founder of **Consentra Labs**, where I help businesses build modern professional enterprise-level websites.  
--  Goal: Become a top-tier full stack engineer and build impactful products.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/geetanjali-sultane/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
 
 ---
 
-##  Tech Stack
-### **Frontend**
-- React.js, JavaScript (ES6+), HTML5, CSS3  
-- Redux Toolkit, Tailwind CSS, Bootstrap  
+## 👩‍💻 About Me
 
-### **Backend**
-- Node.js, Express.js  
-- Java + Spring Boot  
-- REST APIs, JWT Auth  
-
-### **Database**
-- MongoDB, MySQL, PostgreSQL  
-
-### **Tools & Platforms**
-- Git, GitHub, Postman  
-- VS Code, IntelliJ  
-- WordPress, Elementor  
+- 🚀 Full Stack Developer building applications using **MERN, React.js, Java, and Spring Boot**.
+- 💡 Founder of **[Consentra Labs](https://consentra-labs.vercel.app/)**, focused on building modern digital solutions for businesses.
+- 🧠 Solved **500+ LeetCode problems**, continuously strengthening problem-solving and algorithmic thinking.
+- 🌱 Currently exploring **Data Structures & Algorithms, Spring Boot, System Design, and scalable backend architecture**.
+- 🛠️ Interested in building reliable, maintainable, and production-oriented software.
+- 🎯 My goal is to become a well-rounded software engineer and build products that create meaningful impact.
 
 ---
 
-##  Featured Projects
-- **InsurAI- AI-Powered Insurance Policy Platform** — Built an enterprise-grade insurance platform automating 80% of policy and claim workflows with real-time dashboards for 10,000+ employee records. Includes secure role-based access, fraud detection, real-time tracking, and a powerful admin panel with JWT authentication.
-- **AI-Powered Multi-Tenant Revenue & Subscription Engine** — Built a multi-tenant revenue and subscription engine with accurate proration, parallel invoice processing, and full audit logging using Spring AOP. Designed an ACID-compliant data layer and custom multi-tier architecture for high-performance, enterprise-grade billing.
-- **CrimeCast- Crime Prediction Using DL Techniques** — Developed a deep-learning crime prediction model using geospatial and temporal features, trained on Chicago crime data to accurately classify crime types. Built and optimized a TensorFlow-based neural network with robust preprocessing using Pandas and Scikit-learn.
+## 🧰 Tech Stack
 
- 
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
- *View my repositories to explore more!*
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ---
 
-##  Let's Connect
-- **Email:** sultanegeetanjali@gmail.com  
-- **Portfolio:** *coming soon*  
-- **LinkedIn:** www.linkedin.com/in/geetanjali-sultane  
+## 🚀 Featured Projects
+
+### 1. InsurAI – AI-Powered Insurance Policy Platform
+An enterprise-oriented insurance management platform designed to streamline policy and claims workflows.
+
+- Developed role-based portals with secure JWT authentication.
+- Implemented policy and claims management workflows.
+- Integrated fraud detection capabilities and real-time tracking.
+- Built administrative dashboards for centralized management.
+- Designed the platform to support large-scale employee records.
+
+**Tech:** Java, Spring Boot, React.js, MySQL, JWT, WebSockets
+
+### 2. AI-Powered Multi-Tenant Revenue & Subscription Engine
+A backend-focused billing platform designed to manage subscription lifecycles and multi-tenant revenue operations.
+
+- Implemented subscription management and billing workflows.
+- Developed proration logic for subscription changes.
+- Designed parallel invoice processing.
+- Integrated audit logging using Spring AOP.
+- Applied ACID principles for transaction consistency.
+
+**Tech:** Java, Spring Boot, Spring AOP, SQL
+
+### 3. CrimeCast – Crime Prediction Using Deep Learning
+A machine learning project focused on analyzing crime patterns using geospatial and temporal data.
+
+- Developed a crime classification model using Chicago crime data.
+- Applied data preprocessing and feature engineering.
+- Built a TensorFlow-based neural network.
+- Used data analysis and machine learning techniques to improve model performance.
+
+**Tech:** Python, TensorFlow, Pandas, Scikit-learn
 
 ---
 
-**Thanks for visiting my profile! Feel free to follow or check out my projects.**
+## 📊 Problem Solving
+
+I believe consistent problem-solving builds strong engineering fundamentals.
+
+- **500+ LeetCode problems solved**
+- Practicing Data Structures and Algorithms.
+- Strengthening knowledge of arrays, strings, trees, graphs, dynamic programming, and more.
+
+[![LeetCode Profile](https://img.shields.io/badge/Visit_My_LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
+
+---
+
+## 📈 GitHub Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+---
+
+## 💼 Entrepreneurship
+
+### Consentra Labs
+
+**Consistency meets Centralization.**
+
+I founded Consentra Labs with the vision of helping businesses establish a strong digital presence through modern, professional web solutions.
+
+🌐 Website: https://consentra-labs.vercel.app/
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to connecting with developers, discussing software engineering, exploring ideas, and collaborating on meaningful projects.
+
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/geetanjali-sultane/)
+- 💻 **GitHub:** [Explore my repositories](https://github.com/geetanjalis22)
+- 🧩 **LeetCode:** [Explore my problem-solving journey](https://leetcode.com/sultanegeetanjali)
+- 📧 **Email:** [sultanegeetanjali@gmail.com](mailto:sultanegeetanjali@gmail.com)
+- 🚀 **Consentra Labs:** [Visit Website](https://consentra-labs.vercel.app/)
+
+---
+
+### "Build consistently. Learn continuously. Create meaningfully."
+
+Thanks for visiting my profile! ⭐
